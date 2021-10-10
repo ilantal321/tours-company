@@ -9,9 +9,20 @@ PDF creation for receipts about payments, ID documents for clients/workers/tours
 </p>
 
 [Project book](https://github.com/ilantal321/tours-company/blob/main/ScreenShots/ilan_project2021.pdf "Ilan Tal Tours Company project book")
-## Built With
 
-- visual studio
+<h4>Users information:</h4>
+<h5>Client:</h5>
+- Username: ariel
+- password: 1111111111
+<h5>Worker:</h5>
+- Username: hadar
+- password: 1111111111
+<h5>Manager:</h5>
+- Username:: ilant
+- password: 1111111111
+
+## Built With
+- Visual Studio
 
 ## Screenshots
 <h4>Home Screen:</h4>
@@ -31,6 +42,15 @@ PDF creation for receipts about payments, ID documents for clients/workers/tours
 <h4>Manager Page</h4>
 
 ![Client_Register](https://github.com/ilantal321/tours-company/blob/main/ScreenShots/ManegerHomePage.PNG "Maneger Home Page")
+
+## PDF Files & Reports
+
+- [Client_Report](https://github.com/ilantal321/tours-company/blob/main/Reports/ClientReport.pdf "Client Report")
+- [Worker_Report](https://github.com/ilantal321/tours-company/blob/main/Reports/WorkerReport.pdf "Worker Report")
+
+
+
+
 ## Author
 **Ilan Tal**
 
