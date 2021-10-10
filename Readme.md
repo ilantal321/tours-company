@@ -8,7 +8,7 @@ Workers can add/search/charge/active/deactivate clients, add tours, purchase tou
 PDF creation for receipts about payments, ID documents for clients/workers/tours that present all of the purchase’s history (paid, unpaid, cancelled), information about a specific tour, and flight tickets.
 </p>
 
-[Project book](https://github.com/ilantal321/tours-company/blob/main/ilan_project2021.pdf "Ilan Tal Tours Company project book")
+[Project book](https://github.com/ilantal321/tours-company/blob/main/ScreenShots/ilan_project2021.pdf "Ilan Tal Tours Company project book")
 ## Built With
 
 - visual studio
@@ -16,17 +16,21 @@ PDF creation for receipts about payments, ID documents for clients/workers/tours
 ## Screenshots
 <h4>Home Screen:</h4>
 
-![Home Page](https://github.com/ilantal321/tours-company/blob/main/Home_Screen.PNG "Home Page")
+![Home Page](https://github.com/ilantal321/tours-company/blob/main/ScreenShots/Home_Screen.PNG "Home Page")
 <hr>
 <h4>Client Register</h4>
 
-![Client_Register](https://github.com/ilantal321/tours-company/blob/main/ClientRegister.PNG "Client Register")
+![Client_Register](https://github.com/ilantal321/tours-company/blob/main/ScreenShots/ClientRegister.PNG "Client Register")
 
 <hr>
 <h4>Clients Data</h4>
 
-![Client_Register](https://github.com/ilantal321/tours-company/blob/main/ClientsData.PNG "Clients Data")
+![Client_Register](https://github.com/ilantal321/tours-company/blob/main/ScreenShots/ClientsData.PNG "Clients Data")
 
+<hr>
+<h4>Manager Page</h4>
+
+![Client_Register](https://github.com/ilantal321/tours-company/blob/main/ScreenShots/ManegerHomePage.PNG "Maneger Home Page")
 ## Author
 **Ilan Tal**
 
