@@ -48,12 +48,12 @@ PDF creation for receipts about payments, ID documents for clients/workers/tours
 
 ## PDF Files & Reports
 
-- [Client_Report](https://github.com/ilantal321/tours-company/blob/main/Reports/ClientReport.pdf "Client Report")
-- [Worker_Report](https://github.com/ilantal321/tours-company/blob/main/Reports/WorkerReport.pdf "Worker Report")
-- [Tour_Receipt](https://github.com/ilantal321/tours-company/blob/main/Reports/TourReceipt.pdf "Tour Receipt")
-- [Tour_Page_For_Client](https://github.com/ilantal321/tours-company/blob/main/Reports/TourPageForClient.pdf "Tour Page For Client")
-- [Tour_Report](https://github.com/ilantal321/tours-company/blob/main/Reports/TourReport.pdf "Tour Report")
-- [Flight_Tickets](https://github.com/ilantal321/tours-company/blob/main/Reports/FlightTickets.pdf "Flight Tickets")
+- [Client report](https://github.com/ilantal321/tours-company/blob/main/Reports/ClientReport.pdf "Client Report")
+- [Worker report](https://github.com/ilantal321/tours-company/blob/main/Reports/WorkerReport.pdf "Worker Report")
+- [Tour receipt](https://github.com/ilantal321/tours-company/blob/main/Reports/TourReceipt.pdf "Tour Receipt")
+- [Tourage for client](https://github.com/ilantal321/tours-company/blob/main/Reports/TourPageForClient.pdf "Tour Page For Client")
+- [Tour report](https://github.com/ilantal321/tours-company/blob/main/Reports/TourReport.pdf "Tour Report")
+- [Flight tickets](https://github.com/ilantal321/tours-company/blob/main/Reports/FlightTickets.pdf "Flight Tickets")
 
 ## Author
 **Ilan Tal**
