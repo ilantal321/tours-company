@@ -1,4 +1,4 @@
-<h1 align="center">Practical Software Engineer final project: Tours-Company</h1>
+<h1 align="center">Practical Software Engineer personal final project: Tours-Company</h1>
 <h3>Project description</h3>
 <p>
 My final project at Practical Software Engineer study at the Technological College.
