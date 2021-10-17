@@ -51,7 +51,7 @@ PDF creation for receipts about payments, ID documents for clients/workers/tours
 - [Client report](https://github.com/ilantal321/tours-company/blob/main/Reports/ClientReport.pdf "Client Report")
 - [Worker report](https://github.com/ilantal321/tours-company/blob/main/Reports/WorkerReport.pdf "Worker Report")
 - [Tour receipt](https://github.com/ilantal321/tours-company/blob/main/Reports/TourReceipt.pdf "Tour Receipt")
-- [Tourage for client](https://github.com/ilantal321/tours-company/blob/main/Reports/TourPageForClient.pdf "Tour Page For Client")
+- [Tour page for client](https://github.com/ilantal321/tours-company/blob/main/Reports/TourPageForClient.pdf "Tour Page For Client")
 - [Tour report](https://github.com/ilantal321/tours-company/blob/main/Reports/TourReport.pdf "Tour Report")
 - [Flight tickets](https://github.com/ilantal321/tours-company/blob/main/Reports/FlightTickets.pdf "Flight Tickets")
 
