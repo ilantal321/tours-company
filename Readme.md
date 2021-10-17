@@ -44,7 +44,7 @@ PDF creation for receipts about payments, ID documents for clients/workers/tours
 <hr>
 <h4>Manager Page</h4>
 
-![Maneger_Home_Page](https://github.com/ilantal321/tours-company/blob/main/ScreenShots/ManegerHomePage.PNG "Maneger Home Page")
+![Manager_Home_Page](https://github.com/ilantal321/tours-company/blob/main/ScreenShots/ManegerHomePage.PNG "Manager Home Page")
 
 ## PDF Files & Reports
 
