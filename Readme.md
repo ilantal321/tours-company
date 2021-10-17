@@ -12,12 +12,15 @@ PDF creation for receipts about payments, ID documents for clients/workers/tours
 
 <h4>Users information:</h4>
 <h5>Client:</h5>
+
 - Username: ariel
 - password: 1111111111
 <h5>Worker:</h5>
+
 - Username: hadar
 - password: 1111111111
 <h5>Manager:</h5>
+
 - Username:: ilant
 - password: 1111111111
 
