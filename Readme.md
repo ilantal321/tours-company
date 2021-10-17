@@ -8,7 +8,7 @@ Workers can add/search/charge/active/deactivate clients, add tours, purchase tou
 PDF creation for receipts about payments, ID documents for clients/workers/tours that present all of the purchase’s history (paid, unpaid, cancelled), information about a specific tour, and flight tickets.
 </p>
 
-[Project book](https://github.com/ilantal321/tours-company/blob/main/ScreenShots/ilan_project2021.pdf "Ilan Tal Tours Company project book")
+[Project book](https://github.com/ilantal321/tours-company/blob/main/ilan_project2021.pdf "Ilan Tal Tours Company project book")
 
 <h4>Users information:</h4>
 <h5>Client:</h5>
